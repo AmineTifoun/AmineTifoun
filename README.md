@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminetifoun&label=Profile%20views&color=0e75b6&style=flat" alt="aminetifoun" /> </p>
 
-- 🔭 I’m currently working on **MERGING SIO ADMINISTRATION SYSTEME ( SOON ... )**
+- 🔭 I’m currently working on **MERGING SIO ADMINISTRATION SYSTEMES ( SOON ... )**
 
 - 📫 How to reach me **mohamedamine.tifoun2003@gmail.com**
 
